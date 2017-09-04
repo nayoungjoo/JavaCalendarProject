@@ -11,6 +11,7 @@ public class CalendarMain {
 		a=scannera.nextInt();
 		b=scannera.nextInt();
 		System.out.println(a+b);
+		scannera.close();
 	}
 
 }
